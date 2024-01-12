@@ -11,7 +11,7 @@
 
 ### Tools used: 
 
-##### * Microsoft Ecxel
+##### * Microsoft Excel
 ##### * Power Query (Data cleaning and transformation)
 ##### * Power Pivot (Data Modeling)
 ##### * Pivot Table
