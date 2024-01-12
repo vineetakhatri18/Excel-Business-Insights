@@ -8,3 +8,12 @@
 
 ### Financial Analytics:
 #### On the financial front, I led the analysis of profit and loss statements, dissecting our financial performance month by month and across quarters and years. This granular examination helped identify trends and areas for improvement. Moreover, my role extended to scrutinizing the intricacies of gross margin and cost of goods sold (COGS), contributing to better operational efficiency and pricing strategies.
+
+### Tools used: 
+
+##### * Microsoft Ecxel
+##### * Power Query (Data cleaning and transformation)
+##### * Power Pivot (Data Modeling)
+##### * Pivot Table
+##### * Dax Measures
+##### * Conditional Formatting
