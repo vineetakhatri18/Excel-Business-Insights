@@ -1,6 +1,10 @@
 # Excel-Business-Insights
-### Here in this project I have analysed top customers, products, market performance, profit and loss by time. Conducted target comparison analysis, driving informed decision making for business enhancement.
-####  I analyzed diverse business facets, delivering critical insights for strategic decision-making. 
-#### I assessed top customers, scrutinized market performance, and dissected profit and loss statements by year, month, and quarter. 
-#### Implementing comprehensive target comparisons, I identified areas of improvement and success. 
-#### The project also involved an in-depth product analysis, evaluating performance metrics and market positioning. This project showcases my proficiency in Excel also demonstrates my ability to translate raw data into actionable insights, contributing to informed and strategic decision support for organizational growth
+# OVERVIEW:
+#### Atliq Hardwares, an imaginary company, stands as a premier computer hardware producer based in India with a notable global presence. With a commitment to innovation and quality, Atliq has successfully expanded its operations beyond India's borders.
+
+
+### Sales Analytics:
+#### I spearheaded the customer analysis efforts, diving deep into their preferences, behaviors, and locations for the years 2019, 2020, and 2021. By understanding our customers better, I contributed to tailoring our products and services to meet their needs, enhancing overall satisfaction and loyalty. Additionally, my involvement in product and market analyses provided crucial insights, guiding our expansion strategy into international markets.
+
+### Financial Analytics:
+#### On the financial front, I led the analysis of profit and loss statements, dissecting our financial performance month by month and across quarters and years. This granular examination helped identify trends and areas for improvement. Moreover, my role extended to scrutinizing the intricacies of gross margin and cost of goods sold (COGS), contributing to better operational efficiency and pricing strategies.
